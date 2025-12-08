@@ -1,4 +1,4 @@
-# QR Code Scanner Project (Beginner-Friendly)
+# QR Code Scanner Project 
 
 Welcome to my repository!  
 This contains my **very first project using Python and OpenCV**.  
@@ -6,9 +6,9 @@ I am not an expert yet — but I am **eager to learn, build, and improve** my co
 
 ---
 
-## 📁 Project Included in This Repository
+## Project Included in This Repository
 
-### 🔹 QR Code Scanner (Python + OpenCV)
+### QR Code Scanner (Python + OpenCV)
 A simple but exciting project where I learned how to:
 
 - Load images using OpenCV  
@@ -17,12 +17,12 @@ A simple but exciting project where I learned how to:
 - Draw a bounding box over the detected QR code  
 - Save and display the output  
 
-👉 **All project files are inside this folder:**  
+**All project files are inside this folder:**  
 ### ➤ [QR_Project](./QR_Project)
 
 ---
 
-## 🎯 Why I Built This
+## Why I Built This
 
 I wanted to explore:
 
@@ -34,7 +34,7 @@ This project helped me take my **first real step into OpenCV** and image process
 
 ---
 
-## 🚀 What’s Inside the Project Folder?
+## What’s Inside the Project Folder?
 
 Inside `QR_Project/` you will find:
 
@@ -45,7 +45,7 @@ Inside `QR_Project/` you will find:
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m learning Python and computer vision and love creating practical projects.  
 This is just the beginning — many more projects coming soon!
