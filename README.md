@@ -45,8 +45,5 @@ Inside `QR_Project/` you will find:
 
 ---
 
-## About Me
-
-I’m learning Python and computer vision and love creating practical projects.  
 This is just the beginning — many more projects coming soon!
 
