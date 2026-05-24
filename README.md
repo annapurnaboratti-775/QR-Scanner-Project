@@ -19,8 +19,11 @@ This project focuses on understanding the basics of computer vision by working w
 ## Project Structure
 QR_Project/
 │── main.py # Main QR code detection script
+
 │── qr_image.png # Input QR code image
+
 │── qr_detected.png # Output image with bounding box
+
 │── README.md # Project documentation
 
 ## How It Works
